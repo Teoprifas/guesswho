@@ -21,7 +21,7 @@
 			"text"		"Minimum Hiding"
 			"help"		"The minimum Amount of Hiders before the game starts."
 			"type"		"Numeric"
-			"default"	"1"
+			"default"	"2"
 		}
 		3
 		{
